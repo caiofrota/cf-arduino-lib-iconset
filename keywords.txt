@@ -1,0 +1,27 @@
+#######################################
+# Syntax Coloring Map For CFIconSet
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+CFIconSet	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+CFLOGO_128X64   LITERAL1
+NETWORK_HIGH_BARS_8X8   LITERAL1
+NETWORK_LOW_BARS_8X8    LITERAL1
+NETWORK_MED_BARS_8X8    LITERAL1
+PHONE_8X8   LITERAL1
+PROHIBITED_8X8  LITERAL1
+SHOWERS_8X8 LITERAL1
+THERMOMETER_8X8 LITERAL1
+WATERDROP_8X8   LITERAL1
