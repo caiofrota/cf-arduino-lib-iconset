@@ -8,7 +8,7 @@
 [![Slack Chat](https://img.shields.io/badge/chat-slack-green.svg)](https://cftechsol.slack.com)
 [![Website](https://img.shields.io/badge/website-cftechsol.com-green.svg)](https://cftechsol.com)
 
-# CF Push Button for Arduino
+# CF Icon Set for Arduino Display
 
 Icon set of 8x8 pixels.
 
